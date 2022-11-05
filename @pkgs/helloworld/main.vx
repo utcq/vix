@@ -1,0 +1,6 @@
+
+fun:void greet() {
+  puts("Hello World")
+}
+
+int main() {}
