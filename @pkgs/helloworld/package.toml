@@ -1,0 +1,5 @@
+[pkg]
+name="helloworld"
+version=1.0
+author="unity"
+include=["helloworld.vx"]
