@@ -1,0 +1,5 @@
+[pkg]
+name="json"
+version=0.11
+author="open-source-parsers"
+include=["value.h", "writer.h", "json.h"]
