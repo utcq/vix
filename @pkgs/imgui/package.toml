@@ -1,0 +1,5 @@
+[pkg]
+name="imgui"
+version=1.0
+author="ocornut"
+include=["imgui.h"]
