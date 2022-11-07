@@ -1,0 +1,5 @@
+[pkg]
+name="std"
+version=1.0
+author="unity"
+include=["std.cpp"]
